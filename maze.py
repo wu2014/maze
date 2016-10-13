@@ -91,11 +91,6 @@ def SolveMaze(start):
             else:
                 return True    
 
-        ##### ADD CODE HERE for Part A (c) #####
-
-
-
-
     def possibleNextMoves(currentRow, currentCol, maze):
         """Returns legal next moves in nextMoveLocations list """
         nextMoveLocations = []
